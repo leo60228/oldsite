@@ -214,7 +214,7 @@ function initialize(numEntries) {
     if (numEntries === undefined) {
         numEntries = 4;
     }
-    var feed = new google.feeds.Feed("http://www.snugglesstuff.net/community/feed/");
+    var feed = new google.feeds.Feed("/oldsite/community/feed/");
     feed.includeHistoricalEntries();
     //feed.setNumEntries(numEntries);
     feed.load(function (result) {
@@ -239,7 +239,7 @@ function initialize(numEntries) {
   }
   var control = new google.feeds.FeedControl();
   control.setNumEntries(numEntries);
-  control.addFeed("http://www.snugglesstuff.net/community/feed/");
+  control.addFeed("/oldsite/community/feed/");
   control.draw(document.getElementById("feed"));
 }
 
