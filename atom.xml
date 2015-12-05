@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[SnugglesStuff]]></title>
   
-  <link href="/atom.xml" rel="self"/>
-  <link href="/oldsite/"/>
+  <link href="/oldsite/atom.xml" rel="self"/>
+  <link href="/oldsite/oldsite/"/>
   <updated>2015-03-29T14:11:13.000Z</updated>
   <id>/oldsite/</id>
   
@@ -16,7 +16,7 @@
   
   <entry>
     <title><![CDATA[Welcome to the new SnugglesStuff!]]></title>
-    <link href="/oldsite/2015/03/25/Welcome-to-SnugglesStuff-1-5/"/>
+    <link href="/oldsite/oldsite/2015/03/25/Welcome-to-SnugglesStuff-1-5/"/>
     <id>/oldsite/2015/03/25/Welcome-to-SnugglesStuff-1-5/</id>
     <published>2015-03-25T15:06:52.000Z</published>
     <updated>2015-03-29T14:11:13.000Z</updated>
@@ -45,7 +45,7 @@
   
   <entry>
     <title><![CDATA[NES REMIX series subreddit!]]></title>
-    <link href="/oldsite/2014/05/06/nes-remix-series-subreddit/"/>
+    <link href="/oldsite/oldsite/2014/05/06/nes-remix-series-subreddit/"/>
     <id>/oldsite/2014/05/06/nes-remix-series-subreddit/</id>
     <published>2014-05-06T20:27:33.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -61,7 +61,7 @@
   
   <entry>
     <title><![CDATA[Two updates]]></title>
-    <link href="/oldsite/2014/04/09/updates/"/>
+    <link href="/oldsite/oldsite/2014/04/09/updates/"/>
     <id>/oldsite/2014/04/09/updates/</id>
     <published>2014-04-09T13:55:48.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -78,7 +78,7 @@
   
   <entry>
     <title><![CDATA[Site on hold]]></title>
-    <link href="/oldsite/2014/03/24/site-hold/"/>
+    <link href="/oldsite/oldsite/2014/03/24/site-hold/"/>
     <id>/oldsite/2014/03/24/site-hold/</id>
     <published>2014-03-24T20:50:31.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -95,7 +95,7 @@
   
   <entry>
     <title><![CDATA[Blog status bookmarklet]]></title>
-    <link href="/oldsite/2014/02/27/status-bookmarlet/"/>
+    <link href="/oldsite/oldsite/2014/02/27/status-bookmarlet/"/>
     <id>/oldsite/2014/02/27/status-bookmarlet/</id>
     <published>2014-02-27T16:08:16.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -112,7 +112,7 @@
   
   <entry>
     <title><![CDATA[Flappy Bird For The 3DS (+ Site News)]]></title>
-    <link href="/oldsite/2014/02/25/flappy-bird-3ds-site-news/"/>
+    <link href="/oldsite/oldsite/2014/02/25/flappy-bird-3ds-site-news/"/>
     <id>/oldsite/2014/02/25/flappy-bird-3ds-site-news/</id>
     <published>2014-02-25T19:07:38.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -149,7 +149,7 @@
   
   <entry>
     <title><![CDATA[Processing.js Test]]></title>
-    <link href="/oldsite/2014/01/19/processing-js-test/"/>
+    <link href="/oldsite/oldsite/2014/01/19/processing-js-test/"/>
     <id>/oldsite/2014/01/19/processing-js-test/</id>
     <published>2014-01-19T20:15:14.000Z</published>
     <updated>2015-03-26T19:40:29.000Z</updated>
@@ -166,7 +166,7 @@
   
   <entry>
     <title><![CDATA[New CAPTCHA Added]]></title>
-    <link href="/oldsite/2014/01/14/new-captcha-added/"/>
+    <link href="/oldsite/oldsite/2014/01/14/new-captcha-added/"/>
     <id>/oldsite/2014/01/14/new-captcha-added/</id>
     <published>2014-01-14T21:51:47.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
@@ -187,12 +187,12 @@
   
   <entry>
     <title><![CDATA[Aero Glass in Windows 8.1]]></title>
-    <link href="/oldsite/2014/01/10/aero-glass-in-windows-8-1/"/>
+    <link href="/oldsite/oldsite/2014/01/10/aero-glass-in-windows-8-1/"/>
     <id>/oldsite/2014/01/10/aero-glass-in-windows-8-1/</id>
     <published>2014-01-10T22:45:03.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://glass8.berlios.de/download.html" title="Aero Glass" target="_blank" rel="external">Aero Glass in Windows 8.1.</a> It’s right here. And there is finally an installer. It’s a small detail but I miss it. A lot. (If you are wondering what Aero Glass is, it is some transparency on window borders.)<br><a id="more"></a></p>
-<p>OK. So here is before:<a href="/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" target="_blank" rel="external"><img src="/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" alt="Aero Glass_Before"></a></p>
+<p>OK. So here is before:<a href="/oldsite/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" target="_blank" rel="external"><img href="/oldsite/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_Before.png" alt="Aero Glass_Before"></a></p>
 <p>&nbsp;</p>
 <p>And here is how to do it:</p>
 <p>NOTE: You need 7-zip or winRAR for this tutorial.</p>
@@ -214,7 +214,7 @@
 <li>Reboot.</li>
 <li>Wait.</li>
 <li>Click “Yes”.</li>
-<li>See your Aero Glass in Windows 8.1!<br>After you do this:<a href="/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_After.png" target="_blank" rel="external"><img src="/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_After.png" alt="Aero Glass_After"></a></li>
+<li>See your Aero Glass in Windows 8.1!<br>After you do this:<a href="/oldsite/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_After.png" target="_blank" rel="external"><img href="/oldsite/oldsite/community/wp-content/uploads/2014/01/Aero-Glass_After.png" alt="Aero Glass_After"></a></li>
 </ol>
 <p>So… There you go. Aero Glass in Windows 8.</p>
 <p><strong>UPDATE:</strong> Sometimes it does not work but this is rare.</p>
@@ -238,14 +238,14 @@
   
   <entry>
     <title><![CDATA[My Logo]]></title>
-    <link href="/oldsite/2014/01/02/my-logo/"/>
+    <link href="/oldsite/oldsite/2014/01/02/my-logo/"/>
     <id>/oldsite/2014/01/02/my-logo/</id>
     <published>2014-01-02T23:22:49.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="/oldsite/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
+    <content type="html"><![CDATA[<p><img href="/oldsite/oldsite/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="/oldsite/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
+    <![CDATA[<p><img href="/oldsite/oldsite/community/wp-content/uploads/2014/01/3524713.gif" alt="My Logo"></p>
 ]]>
     </summary>
     
@@ -255,7 +255,7 @@
   
   <entry>
     <title><![CDATA[Announcing Scribblenauts Walkthrough!]]></title>
-    <link href="/oldsite/2014/01/01/announcing-scribblenauts-walkthrough/"/>
+    <link href="/oldsite/oldsite/2014/01/01/announcing-scribblenauts-walkthrough/"/>
     <id>/oldsite/2014/01/01/announcing-scribblenauts-walkthrough/</id>
     <published>2014-01-01T22:25:48.000Z</published>
     <updated>2015-03-25T14:29:53.000Z</updated>
